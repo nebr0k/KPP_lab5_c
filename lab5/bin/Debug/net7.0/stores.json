@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "asd",
+    "Address": "sadas",
+    "Phones": [],
+    "Specialization": "d",
+    "WorkingHours": "asd"
+  },
+  {
+    "Name": "AutoStore",
+    "Address": "AutoAddress",
+    "Phones": [],
+    "Specialization": "AutoSpecialization",
+    "WorkingHours": "24/7"
+  },
+  {
+    "Name": "MyStore",
+    "Address": "b.beluky",
+    "Phones": [
+      "1234",
+      "380123456789"
+    ],
+    "Specialization": "book",
+    "WorkingHours": "24/7"
+  }
+]
